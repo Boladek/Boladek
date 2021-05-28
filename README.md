@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boladek
-- 👀 I’m a node.js developer. I'm still an aspiring node developer though.
-- 🌱 I’m currently learning javascripts.
-- 💞️ I’m looking to collaborate on node projects. In the nearest future though, I might branch into other languages.
+- 👀 I’m a full stack node developer. I can write in typescripts too.
+- 🌱 I’m currently building a replica of the deezer music app.
+- 💞️ I’m looking to collaborate on node projects. In the nearest future, I plan to venture in devOps.
 
 <!---
 Boladek/Boladek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
