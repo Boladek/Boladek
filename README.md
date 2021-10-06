@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Boladek
-- 👀 I’m a full stack node developer. I can write in typescripts too.
-- 🌱 I’m currently building a replica of the deezer music app.
+- 👀 I’m a full stack nodeJs developer. I can write in typescripts too.
 - 💞️ I’m looking to collaborate on node projects. In the nearest future, I plan to venture in devOps.
 
 <!---
